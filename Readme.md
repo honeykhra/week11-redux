@@ -57,5 +57,11 @@ It’s a plain React app incrementing steps and reset the steps using redux.
 
 ### I have used Redux Toolkit here
 
+https://user-images.githubusercontent.com/61749076/204616801-b8e24ccf-364d-49f9-89a3-8bdd11c444e6.mp4
+
+
 ![This is an image](./screens/steps0.png)
 ![This is an image](./screens/steps.png)
+
+
+
