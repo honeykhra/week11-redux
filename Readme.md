@@ -24,7 +24,7 @@ go to ReduxExercise-1-redux-state-lightswitch folder
 
 npm i
 
-npm run
+npm start
 ```
 
 ## Output
@@ -48,7 +48,7 @@ go to ReduxExercise-2-steps-counter folder
 
 npm i
 
-npm run
+npm start
 ```
 
 ## Output
